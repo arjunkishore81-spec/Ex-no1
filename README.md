@@ -107,10 +107,8 @@ END
 
 
 #### Output Table
+<img width="637" height="200" alt="image" src="https://github.com/user-attachments/assets/c31eb819-d6ce-41d5-96f0-850497f9f3c7" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
 #### Manual Calculations
 
@@ -158,10 +156,7 @@ END
 ```
 
 #### Output Table
-
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="617" height="205" alt="image" src="https://github.com/user-attachments/assets/822b5659-f435-4f62-b0dd-1774ffd93dab" />
 
 #### Manual Calculations
 
@@ -207,9 +202,7 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="485" height="200" alt="image" src="https://github.com/user-attachments/assets/1cab2f07-abe1-43dc-8563-fd7665a0f24d" />
 
 #### Manual Calculations
 
